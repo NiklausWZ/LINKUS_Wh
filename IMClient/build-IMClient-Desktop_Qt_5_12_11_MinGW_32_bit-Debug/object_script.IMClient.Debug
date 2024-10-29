@@ -1,0 +1,14 @@
+debug/ckernel.o
+debug/friendlist.o
+debug/main.o
+debug/imdialog.o
+debug/TcpClientMediator.o
+debug/mediator.o
+debug/TcpClient.o
+debug/useritem.o
+debug/qrc_resource.o
+debug/moc_ckernel.o
+debug/moc_friendlist.o
+debug/moc_imdialog.o
+debug/moc_mediator.o
+debug/moc_useritem.o

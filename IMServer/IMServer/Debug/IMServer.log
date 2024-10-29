@@ -1,0 +1,3 @@
+﻿  CKernel.cpp
+D:\IMServer\IMServer\CKernel.cpp(40): warning C4715: “CKernel::startServer”: 不是所有的控件路径都返回值
+  IMServer.vcxproj -> D:\IMServer\Debug\IMServer.exe

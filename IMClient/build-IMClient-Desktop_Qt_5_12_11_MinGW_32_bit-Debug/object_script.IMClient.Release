@@ -1,0 +1,14 @@
+release/ckernel.o
+release/friendlist.o
+release/main.o
+release/imdialog.o
+release/TcpClientMediator.o
+release/mediator.o
+release/TcpClient.o
+release/useritem.o
+release/qrc_resource.o
+release/moc_ckernel.o
+release/moc_friendlist.o
+release/moc_imdialog.o
+release/moc_mediator.o
+release/moc_useritem.o
